@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Family Song",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-28T09:33:24.618865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Family Song for the Leaving",
+      "artist": "All Them Witches",
+      "has_synced": true,
+      "path": "select/01_Family_Song_for_the_Leaving_All_Them_Witches.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Family Song",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/02_Family_Song_星野源.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Family Song",
+      "artist": "Okkervil River",
+      "has_synced": false,
+      "path": "select/03_Family_Song_Okkervil_River.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sing A Family Song",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/04_Sing_A_Family_Song_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Family Song",
+      "artist": "星野 源",
+      "has_synced": true,
+      "path": "select/05_Family_Song_星野_源.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Family Song/I Believe In Jesus (Medley)",
+      "artist": "Maranatha! Music",
+      "has_synced": true,
+      "path": "select/06_Family_Song_I_Believe_In_Jesus_(Medley)_Maranatha!_Music.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Family Song - I Believe In Jesus (Instrumental)",
+      "artist": "Maranatha",
+      "has_synced": true,
+      "path": "select/07_Family_Song_-_I_Believe_In_Jesus_(Instrumental)_Maranatha.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Family Song",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/08_Family_Song_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hill Family Song",
+      "artist": "Brenn Hill",
+      "has_synced": false,
+      "path": "select/09_Hill_Family_Song_Brenn_Hill.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Family Song  (日剧《温室里的加穗子》主题曲 / ドラマ「過保護のカホコ」主題歌)",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/10_Family_Song_(日剧《温室里的加穗子》主题曲___ドラマ「過保護のカホコ」主題歌)_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Family Song",
+      "artist": "Jimi Blue",
+      "has_synced": true,
+      "path": "select/11_Family_Song_Jimi_Blue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sing A Family Song",
+      "artist": "Merle Haggard & The Strangers",
+      "has_synced": false,
+      "path": "select/12_Sing_A_Family_Song_Merle_Haggard_&_The_Strangers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FAMILY SONG",
+      "artist": "Gleb",
+      "has_synced": false,
+      "path": "select/13_FAMILY_SONG_Gleb.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Family Song - I Believe In Jesus (Instrumental)",
+      "artist": "Maranatha! Singers",
+      "has_synced": true,
+      "path": "select/14_Family_Song_-_I_Believe_In_Jesus_(Instrumental)_Maranatha!_Singers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Family Song",
+      "artist": "The Wiggles",
+      "has_synced": false,
+      "path": "select/15_A_Family_Song_The_Wiggles.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Family Song",
+      "artist": "Wiggles",
+      "has_synced": false,
+      "path": "select/16_A_Family_Song_Wiggles.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Family Song/I Believe In Jesus",
+      "artist": "Maranatha! Singers",
+      "has_synced": true,
+      "path": "select/17_Family_Song_I_Believe_In_Jesus_Maranatha!_Singers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Family Song",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Family_Song_星野源.txt"
+    }
+  ]
+}
